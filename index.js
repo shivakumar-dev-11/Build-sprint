@@ -19,4 +19,4 @@ function createGreeting(firstName, lastName, timeOfDay) {
   return greeting + ", " + name + "!";
 }
 
-console.log(createGreeting("Eswar", "Saketh", "morning"));
+console.log(createGreeting("shiva", "kumar ", "morning"));
